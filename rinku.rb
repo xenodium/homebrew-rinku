@@ -5,7 +5,7 @@ class Rinku < Formula
   desc "A macOS command-line utility for fetching link previews and metadata from URLs"
   homepage "https://github.com/xenodium/rinku"
   url "https://github.com/xenodium/rinku/archive/refs/heads/main.tar.gz"
-  version "1.0.7"
+  version "1.0.8"
   license "GPL"
 
   depends_on xcode: ["14.0", :build]
